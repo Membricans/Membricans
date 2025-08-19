@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there 👋
 
 I'm a wanna be game dev.
 
