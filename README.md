@@ -1,6 +1,6 @@
 ## Hey there
 
-I'm a wanna be game dev.
+I'm a wanna be game dev
 
 
 <!--.
